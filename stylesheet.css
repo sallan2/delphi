@@ -42,9 +42,8 @@ h3 {
 }
 
 p {
-/**  text-align: center; **/
 color: black;
-text-align: left;
+
 
 }
 
@@ -118,7 +117,8 @@ img {
 }
 
 .whatson {
-  padding: 10px;
+  padding: 20px;
+  text-align: left;
 }
 
 .contact {

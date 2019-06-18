@@ -219,6 +219,18 @@ header {
 
 }
 
+.inline-block {
+display: inline-block;
+margin-left: auto;
+margin-right: auto
+}
+
+footer {
+
+  text-align: center;
+  
+}
+
 form {
   /* Just to center the form on the page */
   width: 300px;
@@ -332,7 +344,7 @@ button {
 }
 
 .center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  display:inline-block;
+  margin: auto;
+  width: 50%;
 }
